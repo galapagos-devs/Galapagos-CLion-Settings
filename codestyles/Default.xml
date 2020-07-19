@@ -1,0 +1,16 @@
+<code_scheme name="Default" version="173">
+  <CMakeCodeStyleSettings>
+    <option name="FORCE_COMMANDS_CASE" value="0" />
+  </CMakeCodeStyleSettings>
+  <Objective-C>
+    <option name="SPACE_BEFORE_POINTER_IN_DECLARATION" value="false" />
+    <option name="SPACE_AFTER_POINTER_IN_DECLARATION" value="true" />
+    <option name="SPACE_BEFORE_REFERENCE_IN_DECLARATION" value="false" />
+    <option name="SPACE_AFTER_REFERENCE_IN_DECLARATION" value="true" />
+  </Objective-C>
+  <codeStyleSettings language="ObjectiveC">
+    <indentOptions>
+      <option name="LABEL_INDENT_ABSOLUTE" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>
